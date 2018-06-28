@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="utf-8"?><html><body><return returnversion="2016v3.0" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.irs.gov/efile">
+<returnheader binaryattachmentcnt="0">
+<returnts>2017-11-15T15:21:39-06:00</returnts>
+<taxperiodenddt>2016-12-31</taxperiodenddt>
+<preparerfirmgrp>
+<preparerfirmein>410746749</preparerfirmein>
+<preparerfirmname>
+<businessnameline1txt>CLIFTONLARSONALLEN LLP</businessnameline1txt>
+</preparerfirmname>
+<preparerusaddress>
+<addressline1txt>901 NORTH GLEBE ROAD SUITE 200</addressline1txt>
+<citynm>ARLINGTON</citynm>
+<stateabbreviationcd>VA</stateabbreviationcd>
+<zipcd>22203</zipcd>
+</preparerusaddress>
+</preparerfirmgrp>
+<returntypecd>990</returntypecd>
+<taxperiodbegindt>2016-01-01</taxperiodbegindt>
+<filer>
+<ein>530219643</ein>
+<businessname>
+<businessnameline1txt>FEDERAL CITY COUNCIL</businessnameline1txt>
+</businessname>
+<businessnamecontroltxt>FEDE</businessnamecontroltxt>
+<phonenum>2022234560</phonenum>
+<usaddress>
+<addressline1txt>1156 15TH STREET NW NO 600</addressline1txt>
+<citynm>WASHINGTON</citynm>
+<stateabbreviationcd>DC</stateabbreviationcd>
+<zipcd>20005</zipcd>
+</usaddress>
+</filer>
+<businessofficergrp>
+<personnm>ANTHONY A WILLIAMS</personnm>
+<persontitletxt>CHIEF EXECUTIVE OFFICER</persontitletxt>
+<phonenum>2022234560</phonenum>
+<signaturedt>2017-11-14</signaturedt>
+<discusswithpaidpreparerind>1</discusswithpaidpreparerind>
+</businessofficergrp>
+<preparerpersongrp>
+<preparerpersonnm>DAVID TRIMNER</preparerpersonnm>
+<ptin>P00444822</ptin>
+<phonenum>5712279500</phonenum>
+</preparerpersongrp>
+<filingsecurityinformation>
+<ipaddress>
+<ipv4addresstxt>67.137.57.251</ipv4addresstxt>
+</ipaddress>
+<ipdt>2017-11-14</ipdt>
+<iptm>11:52:19</iptm>
+<iptimezonecd>ES</iptimezonecd>
+<filinglicensetypecd>P</filinglicensetypecd>
+<atsubmissioncreationdeviceid>EB2200476D68FB6EEC1AFAD6F1D2D29456870623</atsubmissioncreationdeviceid>
+<atsubmissionfilingdeviceid>A175373D45E559E55EF517D222C8E1A12593D80C</atsubmissionfilingdeviceid>
+</filingsecurityinformation>
+<taxyr>2016</taxyr>
+<buildts>2017-02-10 21:41:12Z</buildts>
+</returnheader>
+<returndata documentcnt="8">
+<irs990 documentid="RetDoc1038000001" referencedocumentid="RetDoc1044400001">
+<principalofficernm>ANTHONY A WILLIAMS</principalofficernm>
+<usaddress>
+<addressline1txt>1156 15TH STREET NW NO 600</addressline1txt>
+<citynm>WASHINGTON</citynm>
+<stateabbreviationcd>DC</stateabbreviationcd>
+<zipcd>20005</zipcd>
+</usaddress>
+<grossreceiptsamt>2925143</grossreceiptsamt>
+<groupreturnforaffiliatesind>0</groupreturnforaffiliatesind>
+<organization501c3ind>X</organization501c3ind>
+<websiteaddresstxt>WWW.FEDERALCITYCOUNCIL.ORG</websiteaddresstxt>
+<typeoforganizationcorpind>X</typeoforganizationcorpind>
+<formationyr>1954</formationyr>
+<legaldomicilestatecd>DC</legaldomicilestatecd>
+<activityormissiondesc>THE FEDERAL CITY COUNCIL SERVES AS A CATALYST FOR PROGRESS IN THE DISTRICT OF COLUMBIA.</activityormissiondesc>
+<contractterminationind>X</contractterminationind>
+<votingmembersgoverningbodycnt>222</votingmembersgoverningbodycnt>
+<votingmembersindependentcnt>221</votingmembersindependentcnt>
+<totalemployeecnt>16</totalemployeecnt>
+<totalvolunteerscnt>250</totalvolunteerscnt>
+<totalgrossubiamt>0</totalgrossubiamt>
+<netunrelatedbustxblincmamt>0</netunrelatedbustxblincmamt>
+<pycontributionsgrantsamt>402073</pycontributionsgrantsamt>
+<cycontributionsgrantsamt>2230128</cycontributionsgrantsamt>
+<pyprogramservicerevenueamt>0</pyprogramservicerevenueamt>
+<cyprogramservicerevenueamt>0</cyprogramservicerevenueamt>
+<pyinvestmentincomeamt>1241</pyinvestmentincomeamt>
+<cyinvestmentincomeamt>3652</cyinvestmentincomeamt>
+<pyotherrevenueamt>85950</pyotherrevenueamt>
+<cyotherrevenueamt>-5581</cyotherrevenueamt>
+<pytotalrevenueamt>489264</pytotalrevenueamt>
+<cytotalrevenueamt>2228199</cytotalrevenueamt>
+<pygrantsandsimilarpaidamt>0</pygrantsandsimilarpaidamt>
+<cygrantsandsimilarpaidamt>0</cygrantsandsimilarpaidamt>
+<pybenefitspaidtomembersamt>0</pybenefitspaidtomembersamt>
+<cybenefitspaidtomembersamt>0</cybenefitspaidtomembersamt>
+<pysalariescompempbnftpaidamt>481493</pysalariescompempbnftpaidamt>
+<cysalariescompempbnftpaidamt>1405375</cysalariescompempbnftpaidamt>
+<pytotalproffndrsngexpnsamt>0</pytotalproffndrsngexpnsamt>
+<cytotalproffndrsngexpnsamt>0</cytotalproffndrsngexpnsamt>
+<cytotalfundraisingexpenseamt>174208</cytotalfundraisingexpenseamt>
+<pyotherexpensesamt>380741</pyotherexpensesamt>
+<cyotherexpensesamt>647437</cyotherexpensesamt>
+<pytotalexpensesamt>862234</pytotalexpensesamt>
+<cytotalexpensesamt>2052812</cytotalexpensesamt>
+<pyrevenueslessexpensesamt>-372970</pyrevenueslessexpensesamt>
+<cyrevenueslessexpensesamt>175387</cyrevenueslessexpensesamt>
+<totalassetsboyamt>1401371</totalassetsboyamt>
+<totalassetseoyamt>1540703</totalassetseoyamt>
+<totalliabilitiesboyamt>995479</totalliabilitiesboyamt>
+<totalliabilitieseoyamt>1127351</totalliabilitieseoyamt>
+<netassetsorfundbalancesboyamt>405892</netassetsorfundbalancesboyamt>
+<netassetsorfundbalanceseoyamt>413352</netassetsorfundbalanceseoyamt>
+<infoinscheduleopartiiiind>X</infoinscheduleopartiiiind>
+<missiondesc>THE FEDERAL CITY COUNCIL WAS ESTABLISHED IN 1954 FOR THE PURPOSE OF ENHANCING WASHINGTON, DC BY SERVING AS A CATALYST FOR PROGRESS. THE COUNCIL UTILIZES THE TALENTS OF THE DISTRICT'S BUSINESS AND PROFESSIONAL LEADERS TO ADDRESS SOME OF THE MOST IMPORTANT AND CHALLENGING ISSUES FACING THE WASHINGTON, DC AREA.</missiondesc>
+<significantnewprogramsrvcind>1</significantnewprogramsrvcind>
+<significantchangeind>1</significantchangeind>
+<expenseamt>442321</expenseamt>
+<desc>FISCAL STABILITY AND ECONOMIC DEVELOPMENT:THE FEDERAL CITY COUNCIL ENCOURAGES EFFORTS TO ENSURE THE LONG-TERM COMPETITIVENESS AND RESILIENCY OF THE DISTRICT'S ECONOMY. THESE EFFORTS INCLUDE PROMOTING A FAIR AND EQUITABLE TAX SYSTEM, PROMOTING EFFORTS TO SUPPORT DC BUSINESSES, AND ESTABLISHING THE DC POLICY WHICH PROVIDES UNBAISED ECONOMIC AND PUBLIC POLICY ANALYSES TO ELECTED OFFICIALS AND THE PUBLIC.</desc>
+<progsrvcaccomacty2grp>
+<expenseamt>426968</expenseamt>
+<desc>TRANSPORTATION AND INFRASTRUCTURE:THE FEDERAL CITY COUNCIL UNDERTAKES ACTIVITIES TO ENCOURAGE REGIONAL TRANSPORTATION PLANNING AND COOPERATION, EXPLORE INNOVATIVE METHODS FOR FINANCING CRITICAL INFRASTRUCTURE IMPROVEMENTS, AND PROMOTE EFFORTS TO IMPROVE THE SAFETY AND RELIABILITY OF WMATA, THE REGION'S MASS TRANSIT SYSTEM.</desc>
+</progsrvcaccomacty2grp>
+<progsrvcaccomacty3grp>
+<expenseamt>384778</expenseamt>
+<desc>GENERAL MEMBERSHIP ACTIVITIES:THE FEDERAL CITY COUNCIL WAS ESTABLISHED IN 1954 TO FOCUS THE CREATIVITY, TALENT AND RESOURCES OF THE DISTRICT OF COLUMBIA'S TOP BUSINESS, EDUCATION AND PHILANTHROPIC LEADERS ON MAJOR CHALLENGES AND OPPORTUNITIES FACING THE CITY. THE COUNCIL IS A NON-PARTISAN ORGANIZATION WHOSE 220 MEMBERS WORK WITH THE DISTRICT AND FEDERAL GOVERNMENTS TO DEVISE AND IMPLEMENT SOLUTIONS TO IMPORTANT COMMUNITY PROBLEMS.</desc>
+</progsrvcaccomacty3grp>
+<progsrvcaccomactyothergrp>
+<expenseamt>182790</expenseamt>
+<desc>EDUCATION:THE FEDERAL CITY COUNCIL SERVES AS A TRUSTED PARTNER FOR EDUCATIONAL IMPROVEMENT IN THE DISTRICT OF COLUMBIA. WORKING CLOSELY WITH LOCAL AND FEDERAL STAKEHOLDERS, THE COUNCIL PROMOTES EFFORTS TO CREATE AN EDUCATIONAL SYSTEM IN WHICH ALL STUDENTS CAN GRADUATE FROM HIGH SCHOOL AND BE PREPARED FOR COLLEGE, CAREER AND LIFE.</desc>
+</progsrvcaccomactyothergrp>
+<totalotherprogsrvcexpenseamt>182790</totalotherprogsrvcexpenseamt>
+<totalprogramserviceexpensesamt>1436857</totalprogramserviceexpensesamt>
+<describedinsection501c3ind referencedocumentid="RetDoc1039100001">1</describedinsection501c3ind>
+<schedulebrequiredind referencedocumentid="RetDoc1234500001">1</schedulebrequiredind>
+<politicalcampaignactyind>0</politicalcampaignactyind>
+<lobbyingactivitiesind>0</lobbyingactivitiesind>
+<subjecttoproxytaxind>0</subjecttoproxytaxind>
+<donoradvisedfundind referencedocumentid="RetDoc1040000001">0</donoradvisedfundind>
+<conservationeasementsind referencedocumentid="RetDoc1040000001">0</conservationeasementsind>
+<collectionsofartind referencedocumentid="RetDoc1040000001">0</collectionsofartind>
+<creditcounselingind referencedocumentid="RetDoc1040000001">0</creditcounselingind>
+<temporpermanentendowmentsind referencedocumentid="RetDoc1040000001">0</temporpermanentendowmentsind>
+<reportlandbuildingequipmentind referencedocumentid="RetDoc1040000001">1</reportlandbuildingequipmentind>
+<reportinvestmentsothersecind referencedocumentid="RetDoc1040000001">0</reportinvestmentsothersecind>
+<reportprogramrelatedinvstind referencedocumentid="RetDoc1040000001">0</reportprogramrelatedinvstind>
+<reportotherassetsind referencedocumentid="RetDoc1040000001">0</reportotherassetsind>
+<reportotherliabilitiesind referencedocumentid="RetDoc1040000001">1</reportotherliabilitiesind>
+<includefin48footnoteind referencedocumentid="RetDoc1040000001">1</includefin48footnoteind>
+<independentauditfinclstmtind referencedocumentid="RetDoc1040000001">1</independentauditfinclstmtind>
+<consolidatedauditfinclstmtind referencedocumentid="RetDoc1040000001">0</consolidatedauditfinclstmtind>
+<schooloperatingind>0</schooloperatingind>
+<foreignofficeind>0</foreignofficeind>
+<foreignactivitiesind>0</foreignactivitiesind>
+<morethan5000ktoorgind>0</morethan5000ktoorgind>
+<morethan5000ktoindividualsind>0</morethan5000ktoindividualsind>
+<professionalfundraisingind>0</professionalfundraisingind>
+<fundraisingactivitiesind>0</fundraisingactivitiesind>
+<gamingactivitiesind>0</gamingactivitiesind>
+<operatehospitalind>0</operatehospitalind>
+<grantstoorganizationsind>0</grantstoorganizationsind>
+<grantstoindividualsind>0</grantstoindividualsind>
+<schedulejrequiredind referencedocumentid="RetDoc1042400001">1</schedulejrequiredind>
+<taxexemptbondsind>0</taxexemptbondsind>
+<engagedinexcessbenefittransind>0</engagedinexcessbenefittransind>
+<pyexcessbenefittransind>0</pyexcessbenefittransind>
+<loanoutstandingind>0</loanoutstandingind>
+<granttorelatedpersonind>0</granttorelatedpersonind>
+<businessrlnwithorgmemind>0</businessrlnwithorgmemind>
+<businessrlnwithfammemind>0</businessrlnwithfammemind>
+<businessrlnwithofficerentind>0</businessrlnwithofficerentind>
+<deductiblenoncashcontriind referencedocumentid="RetDoc1042900001">1</deductiblenoncashcontriind>
+<deductibleartcontributionind referencedocumentid="RetDoc1042900001">0</deductibleartcontributionind>
+<terminateoperationsind referencedocumentid="RetDoc1043200001">0</terminateoperationsind>
+<partialliquidationind referencedocumentid="RetDoc1043200001">1</partialliquidationind>
+<disregardedentityind>0</disregardedentityind>
+<relatedentityind>0</relatedentityind>
+<relatedorganizationctrlentind>0</relatedorganizationctrlentind>
+<trnsfrexmptnonchrtblrltdorgind>0</trnsfrexmptnonchrtblrltdorgind>
+<activitiesconductedprtshpind>0</activitiesconductedprtshpind>
+<scheduleorequiredind>1</scheduleorequiredind>
+<irpdocumentcnt>12</irpdocumentcnt>
+<irpdocumentw2gcnt>0</irpdocumentw2gcnt>
+<employeecnt>16</employeecnt>
+<employmenttaxreturnsfiledind>1</employmenttaxreturnsfiledind>
+<unrelatedbusincmoverlimitind>0</unrelatedbusincmoverlimitind>
+<foreignfinancialaccountind>0</foreignfinancialaccountind>
+<prohibitedtaxsheltertransind>0</prohibitedtaxsheltertransind>
+<taxablepartynotificationind>0</taxablepartynotificationind>
+<nondeductiblecontributionsind>0</nondeductiblecontributionsind>
+<quidproquocontributionsind>0</quidproquocontributionsind>
+<form8282propertydisposedofind>0</form8282propertydisposedofind>
+<rcvfndstopayprsnlbnftcntrctind>0</rcvfndstopayprsnlbnftcntrctind>
+<paypremiumsprsnlbnftcntrctind>0</paypremiumsprsnlbnftcntrctind>
+<indoortanningservicesind>0</indoortanningservicesind>
+<infoinscheduleopartviind>X</infoinscheduleopartviind>
+<governingbodyvotingmemberscnt>222</governingbodyvotingmemberscnt>
+<independentvotingmembercnt>221</independentvotingmembercnt>
+<familyorbusinessrlnind>1</familyorbusinessrlnind>
+<delegationofmgmtdutiesind>0</delegationofmgmtdutiesind>
+<changetoorgdocumentsind>0</changetoorgdocumentsind>
+<materialdiversionormisuseind>0</materialdiversionormisuseind>
+<membersorstockholdersind>1</membersorstockholdersind>
+<electionofboardmembersind>1</electionofboardmembersind>
+<decisionssubjecttoapprovaind>1</decisionssubjecttoapprovaind>
+<minutesofgoverningbodyind>1</minutesofgoverningbodyind>
+<minutesofcommitteesind>1</minutesofcommitteesind>
+<officermailingaddressind>0</officermailingaddressind>
+<localchaptersind>0</localchaptersind>
+<form990providedtogvrnbodyind>0</form990providedtogvrnbodyind>
+<conflictofinterestpolicyind>1</conflictofinterestpolicyind>
+<annualdisclosurecoveredprsnind>1</annualdisclosurecoveredprsnind>
+<regularmonitoringenfrcind>1</regularmonitoringenfrcind>
+<whistleblowerpolicyind>1</whistleblowerpolicyind>
+<documentretentionpolicyind>1</documentretentionpolicyind>
+<compensationprocessceoind>1</compensationprocessceoind>
+<compensationprocessotherind>1</compensationprocessotherind>
+<investmentinjointventureind>0</investmentinjointventureind>
+<uponrequestind>X</uponrequestind>
+<booksincareofdetail>
+<businessname>
+<businessnameline1txt>STEVEN RUSSO</businessnameline1txt>
+</businessname>
+<phonenum>2022234563</phonenum>
+<usaddress>
+<addressline1txt>1156 15TH STREET NW NO 600</addressline1txt>
+<citynm>WASHINGTON</citynm>
+<stateabbreviationcd>DC</stateabbreviationcd>
+<zipcd>20005</zipcd>
+</usaddress>
+</booksincareofdetail>
+<form990partviisectionagrp>
+<personnm>THE HONORABLE TOM DAVIS</personnm>
+<titletxt>PRESIDENT</titletxt>
+<averagehoursperweekrt>4.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DAVID LAWSON</personnm>
+<titletxt>VICE PRESIDENT</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT J FLANAGAN</personnm>
+<titletxt>VICE PRESIDENT</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>EDWARD W WALTER</personnm>
+<titletxt>CHAIRMAN</titletxt>
+<averagehoursperweekrt>4.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOSHUA B BERNSTEIN</personnm>
+<titletxt>VICE PRESIDENT MEMBERSHIP ENGAGEMENT</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ANTHONY A WILLIAMS</personnm>
+<titletxt>CHIEF EXECUTIVE OFFICER AND EXECUTIVE DIRECTOR</titletxt>
+<averagehoursperweekrt>40.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>260000</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>64483</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LINDA RABBITT</personnm>
+<titletxt>TREASURER</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KATHERINE BRITTAIN BRADLEY</personnm>
+<titletxt>SECRETARY</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DONALD E GRAHAM</personnm>
+<titletxt>VICE PRESIDENT NOMINATING</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL N HARRELD</personnm>
+<titletxt>CHAIR WORKFORCE INVESTMENT COUNCIL</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAKE JONES</personnm>
+<titletxt>VICE PRESIDENT - FEDERAL RELATIONS</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RUSSELL C LINDNER</personnm>
+<titletxt>VICE PRESIDENT STRATEGIC PLANNING</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHARLES MILLER</personnm>
+<titletxt>GENERAL COUNSEL</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SHARON PERCY ROCKEFELLER</personnm>
+<titletxt>VICE PRESIDENT MEMBERSHIP</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<officerind>X</officerind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARGARET DUNNING</personnm>
+<titletxt>MEMBERSHIP COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAIR K LYNCH</personnm>
+<titletxt>TRANSPORTATION COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DEBORAH RATNER SALZBERG</personnm>
+<titletxt>TRANSPORTATION COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PAULINE A SCHNEIDER</personnm>
+<titletxt>INFRASTRUCTURE TRUST COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM E SUDOW</personnm>
+<titletxt>TRANSPORTATION COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER L THOMPSON</personnm>
+<titletxt>TOURISM PROMOTION COMMITTEE CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM WILLY WALKER</personnm>
+<titletxt>INFRASTRUCTURE TRUST COMMITTEE CO-CHAIR</titletxt>
+<averagehoursperweekrt>1.00</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICK ADAMS JR</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHESTER CHET BURRELL</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARC DELUCA</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CAROL THOMPSON COLE</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MATTHEW CUTTS</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHERRIE WANNER DOGGETT</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARK D EIN</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CREIGHTON R CHIP MAGID</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHELE V HAGANS</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHARLENE DREW JARVIS</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GINGER LAYTHAM</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ANTHONY LEWIS</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ALAN NOVAK</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DERYL MCKISSACK</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>AMY RIFKIND</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>BARBARA MULLENEX</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER J NASSETTA</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>NELS OLSON</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TIM O'SHAUGHNESSY</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LEX SANT</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KENNETH A SAMET</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PATTY STONESIFER</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JEFFREY WOOD</personnm>
+<titletxt>EXECUTIVE COMMITTEE MEMBER</titletxt>
+<averagehoursperweekrt>0.30</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JIM ABDO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>NEIL ALBERT</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>NIZAM ALI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL ALPERT</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM B ALSUP</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KIMBERLY ARCHER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>THOMAS BALTIMORE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN H C BARRON JR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JENNY BILFIELD</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT BOBB</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RANDALL BOE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SCOTT A BOLDEN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>THOMAS G BORGER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JON BOUKER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN BROPHY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOSEPH S BRUNO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT BUCHANAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>EVAN BURFIELD</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CONRAD CAFRITZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CALVIN CAFRITZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JERRY CARLSON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DICKIE S CARTER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GIUSEPPE CECCHI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TAMARA CHRISTIAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KENNETH W COLE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JEANNE K CONNELLY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL CURTO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHIP DAVIS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES G DAVIS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TODD DEGARMO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN J DEGIOIA PHD</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GILBERT E DELORME</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARGARET DELISSER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>THOMAS DOHRMANN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT J DOLE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN P DREW</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MAUREEN E DWYER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LEROY TERRY EAKIN III</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARK ELLENBOGEN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAY A EPSTIEN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>HARVEY F ERNEST JR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ALLISON FANSLER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PETER J FARRELL</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL FITZGERALD</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>COLDEN FLORANCE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LEE M FOLGER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DR WAYNE AI FREDERICK</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>AMY FREEMAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>THOMAS FULCHER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN GARVEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ANDREW GELFUSO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN M GERMANO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEVEN B GEWIRZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SEAN GLASS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER GLADSTONE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>NORMAN M GLASGOW JR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL J GLOSSERMAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TERENCE C GOLDEN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>NICKY GOREN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PATRICK W GROSS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM N HALL</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN D HAGNER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DONNA HARRIS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEPHEN D HARLAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CARY HATCH</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEPHEN HILLS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT HISAOKA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MONTY HOFFMAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>VERNON W HOLLEMAN III</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DIANE J HOSKINS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TOM HUNT</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ALAN T HURWITZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES IKER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL INABINET</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARIE JOHNS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES R JONES</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARK M KATZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CORNELIUS M KERWIN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRIS KERNS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL KIMSEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MATT KLEIN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEVEN KNAPP</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHARITO M KRUVANT</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SACHIKO KUNO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD LAFLEUR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD LAKE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LASALLE D LEFFALL III</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TED LEONSIS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD LEVY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JEROME B LIBIN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL LINCOLN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WALLACE LOH</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TAMERA LUZZATTO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>VICTOR B MACFARLANE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KATHRYN A MACLANE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD E MARRIOTT</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GARY F MARTINEZ</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TERRY MCCALLISTER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TERRI MCCLEMENTS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GREGORY MCCARTHY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JODIE MCCLEAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PATRICIA MCGUIRE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MIKE MCNAMARA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM MCSWEENY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CATHERINE MELOY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>BO MENKITI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GREGORY MEYER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LINDSAY MEYER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>HERBERT MILLER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DOYLE B MITCHELL JR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SANDY NELSON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES NEUHAUSER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KURT NEWMAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>OM TONY NICELY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER NIEMCZEWSKI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DAN O'NEIL</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ED OFFTERDINGER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KEVYN ORR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEPHEN ORR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD G PARKER ESC</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES PASTORIZA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SUZANNE PECK</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM F PEEL III</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KATHLEEN PENNEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARIO PEPE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CARLOS PERDOMO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PATRICK PHILLIPS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEPHANIE PHILLIPPS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ANTHONY PIERCE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ERIC PRICE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM QUIMBY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WHAYNE QUIN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KATHY RAFFA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RUSSELL W RAMSEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JAMES REYES</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RAYMOND A RITCHEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JACKSON C RITCHIE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ALICE RIVLIN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARTIN RODGERS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RYNTHIA M ROST</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER T ROTH</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DEBORAH RUTTER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>FRANCIS B SAUL II</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MITCHELL N SCHEAR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SAMUEL A SCHREIBER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JEFFREY SCHRAGG</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RUDY SEIKALY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SVEN SHOCKEY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>LEWIS SHRENSKY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JULIE SMITH</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHRISTOPHER W SMITH JR</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RICHARD W SNOWDON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PIYUSH SODHA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KENNETH R SPARKS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOSEPH STETTINIUS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CARY SUMMERS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GARY H TABACH</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT K TANENBAUM</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DAVID THOMAS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MARIA TILDON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>WILLIAM VAN HOENE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DAVID VARNER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KEVIN C VIROSTEK</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT WARD</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ZUHAIRAH WASHINGTON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>BRIEN WHITE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROB WILDER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CHARLES C WILKES</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DONALD R WILSON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>CATHERINE MERRILL WILLIAMS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PAUL MARTIN WOLFF</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DENNIS R WRAASE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ANN WROBLESKI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>BOB YOUNGENTOB</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOANNE ZIMOLZAK</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>TERRY BROWN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>MICHAEL PICKRUM</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ROBERT SILBERMAN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>J SCOTT WILFONG</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>HAROLD DAVIS</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DOUGLAS DONATELLI</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GLENN S GERSTELL</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PATTI GRANT-WILKINSON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GERARD HEIBER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>JOHN M KANE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DEBORAH J KISSIRE</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>ALAN MELTZER</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RAYMOND S SCZUDLO</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>THEODORE D SEGAL</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>SCOTT BOHANNON</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>PHIL MCCARTHY</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>RAJ VINNAKOTA</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>GREG CASTEN</personnm>
+<titletxt>TRUSTEE</titletxt>
+<averagehoursperweekrt>0.20</averagehoursperweekrt>
+<individualtrusteeordirectorind>X</individualtrusteeordirectorind>
+<reportablecompfromorgamt>0</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>0</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>KEVIN CLINTON</personnm>
+<titletxt>CHIEF OPERATING OFFICER</titletxt>
+<averagehoursperweekrt>40.00</averagehoursperweekrt>
+<officerind>X</officerind>
+<reportablecompfromorgamt>173627</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>42887</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>EMEKA MONEME</personnm>
+<titletxt>DEPUTY EXECUTIVE DIRECTOR</titletxt>
+<averagehoursperweekrt>40.00</averagehoursperweekrt>
+<officerind>X</officerind>
+<reportablecompfromorgamt>175000</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>44680</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>DOUGLAS SIGLIN</personnm>
+<titletxt>EXECUTIVE DIRECTOR, AWT</titletxt>
+<averagehoursperweekrt>40.00</averagehoursperweekrt>
+<officerind>X</officerind>
+<reportablecompfromorgamt>140000</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>15400</othercompensationamt>
+</form990partviisectionagrp>
+<form990partviisectionagrp>
+<personnm>STEVE RUSSO</personnm>
+<titletxt>DIRECTOR OF FINANCE AND ADMIN.</titletxt>
+<averagehoursperweekrt>40.00</averagehoursperweekrt>
+<officerind>X</officerind>
+<reportablecompfromorgamt>139775</reportablecompfromorgamt>
+<reportablecompfromrltdorgamt>0</reportablecompfromrltdorgamt>
+<othercompensationamt>31686</othercompensationamt>
+</form990partviisectionagrp>
+<totalreportablecompfromorgamt>888402</totalreportablecompfromorgamt>
+<totreportablecomprltdorgamt>0</totreportablecomprltdorgamt>
+<totalothercompensationamt>199136</totalothercompensationamt>
+<indivrcvdgreaterthan100kcnt>5</indivrcvdgreaterthan100kcnt>
+<formerofcremployeeslistedind>0</formerofcremployeeslistedind>
+<totalcompgreaterthan150kind>1</totalcompgreaterthan150kind>
+<compensationfromothersrcsind>0</compensationfromothersrcsind>
+<cntrctrcvdgreaterthan100kcnt>0</cntrctrcvdgreaterthan100kcnt>
+<membershipduesamt>1796345</membershipduesamt>
+<allothercontributionsamt>433783</allothercontributionsamt>
+<noncashcontributionsamt>90281</noncashcontributionsamt>
+<totalcontributionsamt>2230128</totalcontributionsamt>
+<investmentincomegrp>
+<totalrevenuecolumnamt>3690</totalrevenuecolumnamt>
+<exclusionamt>3690</exclusionamt>
+</investmentincomegrp>
+<grossrentsgrp>
+<realamt>687712</realamt>
+</grossrentsgrp>
+<lessrentalexpensesgrp>
+<realamt>693293</realamt>
+</lessrentalexpensesgrp>
+<rentalincomeorlossgrp>
+<realamt>-5581</realamt>
+</rentalincomeorlossgrp>
+<netrentalincomeorlossgrp>
+<totalrevenuecolumnamt>-5581</totalrevenuecolumnamt>
+<exclusionamt>-5581</exclusionamt>
+</netrentalincomeorlossgrp>
+<grossamountsalesassetsgrp>
+<securitiesamt>3613</securitiesamt>
+</grossamountsalesassetsgrp>
+<lesscostothbasissalesexpnssgrp>
+<securitiesamt>3651</securitiesamt>
+</lesscostothbasissalesexpnssgrp>
+<gainorlossgrp>
+<securitiesamt>-38</securitiesamt>
+</gainorlossgrp>
+<netgainorlossinvestmentsgrp>
+<totalrevenuecolumnamt>-38</totalrevenuecolumnamt>
+<exclusionamt>-38</exclusionamt>
+</netgainorlossinvestmentsgrp>
+<totalrevenuegrp>
+<totalrevenuecolumnamt>2228199</totalrevenuecolumnamt>
+<relatedorexemptfuncincomeamt>0</relatedorexemptfuncincomeamt>
+<unrelatedbusinessrevenueamt>0</unrelatedbusinessrevenueamt>
+<exclusionamt>-1929</exclusionamt>
+</totalrevenuegrp>
+<compcurrentofcrdirectorsgrp>
+<totalamt>1087537</totalamt>
+<programservicesamt>786452</programservicesamt>
+<managementandgeneralamt>221911</managementandgeneralamt>
+<fundraisingamt>79174</fundraisingamt>
+</compcurrentofcrdirectorsgrp>
+<othersalariesandwagesgrp>
+<totalamt>237064</totalamt>
+<programservicesamt>142033</programservicesamt>
+<managementandgeneralamt>39015</managementandgeneralamt>
+<fundraisingamt>56016</fundraisingamt>
+</othersalariesandwagesgrp>
+<pensionplancontributionsgrp>
+<totalamt>-22257</totalamt>
+<programservicesamt>-21886</programservicesamt>
+<managementandgeneralamt>-460</managementandgeneralamt>
+<fundraisingamt>89</fundraisingamt>
+</pensionplancontributionsgrp>
+<otheremployeebenefitsgrp>
+<totalamt>19140</totalamt>
+<programservicesamt>15797</programservicesamt>
+<managementandgeneralamt>-2777</managementandgeneralamt>
+<fundraisingamt>6120</fundraisingamt>
+</otheremployeebenefitsgrp>
+<payrolltaxesgrp>
+<totalamt>83891</totalamt>
+<programservicesamt>58556</programservicesamt>
+<managementandgeneralamt>16359</managementandgeneralamt>
+<fundraisingamt>8976</fundraisingamt>
+</payrolltaxesgrp>
+<feesforservicesmanagementgrp>
+<totalamt>19749</totalamt>
+<managementandgeneralamt>19749</managementandgeneralamt>
+</feesforservicesmanagementgrp>
+<feesforserviceslegalgrp>
+<totalamt>61390</totalamt>
+<programservicesamt>61390</programservicesamt>
+</feesforserviceslegalgrp>
+<feesforservicesothergrp>
+<totalamt>112208</totalamt>
+<programservicesamt>112208</programservicesamt>
+</feesforservicesothergrp>
+<officeexpensesgrp>
+<totalamt>53284</totalamt>
+<programservicesamt>36645</programservicesamt>
+<managementandgeneralamt>11010</managementandgeneralamt>
+<fundraisingamt>5629</fundraisingamt>
+</officeexpensesgrp>
+<informationtechnologygrp>
+<totalamt>47519</totalamt>
+<managementandgeneralamt>47519</managementandgeneralamt>
+</informationtechnologygrp>
+<occupancygrp>
+<totalamt>75851</totalamt>
+<programservicesamt>52944</programservicesamt>
+<managementandgeneralamt>14791</managementandgeneralamt>
+<fundraisingamt>8116</fundraisingamt>
+</occupancygrp>
+<travelgrp>
+<totalamt>12799</totalamt>
+<programservicesamt>8931</programservicesamt>
+<managementandgeneralamt>2496</managementandgeneralamt>
+<fundraisingamt>1372</fundraisingamt>
+</travelgrp>
+<conferencesmeetingsgrp>
+<totalamt>67698</totalamt>
+<programservicesamt>67698</programservicesamt>
+</conferencesmeetingsgrp>
+<depreciationdepletiongrp>
+<totalamt>40946</totalamt>
+<programservicesamt>28573</programservicesamt>
+<managementandgeneralamt>7984</managementandgeneralamt>
+<fundraisingamt>4389</fundraisingamt>
+</depreciationdepletiongrp>
+<insurancegrp>
+<totalamt>20245</totalamt>
+<managementandgeneralamt>20245</managementandgeneralamt>
+</insurancegrp>
+<otherexpensesgrp>
+<desc>PRINTING AND MIMEOGRAPH</desc>
+<totalamt>39041</totalamt>
+<programservicesamt>27243</programservicesamt>
+<managementandgeneralamt>7613</managementandgeneralamt>
+<fundraisingamt>4185</fundraisingamt>
+</otherexpensesgrp>
+<otherexpensesgrp>
+<desc>WEBSITE</desc>
+<totalamt>25337</totalamt>
+<programservicesamt>25337</programservicesamt>
+</otherexpensesgrp>
+<otherexpensesgrp>
+<desc>MEMBERSHIP ACTIVITIES</desc>
+<totalamt>21859</totalamt>
+<programservicesamt>21859</programservicesamt>
+</otherexpensesgrp>
+<otherexpensesgrp>
+<desc>BAD DEBTS</desc>
+<totalamt>16329</totalamt>
+<programservicesamt>0</programservicesamt>
+<managementandgeneralamt>16329</managementandgeneralamt>
+</otherexpensesgrp>
+<allotherexpensesgrp>
+<totalamt>33182</totalamt>
+<programservicesamt>13077</programservicesamt>
+<managementandgeneralamt>19963</managementandgeneralamt>
+<fundraisingamt>142</fundraisingamt>
+</allotherexpensesgrp>
+<totalfunctionalexpensesgrp>
+<totalamt>2052812</totalamt>
+<programservicesamt>1436857</programservicesamt>
+<managementandgeneralamt>441747</managementandgeneralamt>
+<fundraisingamt>174208</fundraisingamt>
+</totalfunctionalexpensesgrp>
+<cashnoninterestbearinggrp>
+<boyamt>883219</boyamt>
+<eoyamt>856297</eoyamt>
+</cashnoninterestbearinggrp>
+<savingsandtempcashinvstgrp>
+<boyamt>5880</boyamt>
+<eoyamt>5882</eoyamt>
+</savingsandtempcashinvstgrp>
+<accountsreceivablegrp>
+<boyamt>18177</boyamt>
+<eoyamt>153501</eoyamt>
+</accountsreceivablegrp>
+<inventoriesforsaleorusegrp>
+<boyamt>31714</boyamt>
+<eoyamt>31714</eoyamt>
+</inventoriesforsaleorusegrp>
+<prepaidexpensesdefrdchargesgrp>
+<boyamt>57257</boyamt>
+<eoyamt>35162</eoyamt>
+</prepaidexpensesdefrdchargesgrp>
+<landbldgequipcostorotherbssamt>415041</landbldgequipcostorotherbssamt>
+<landbldgequipaccumdeprecamt>293232</landbldgequipaccumdeprecamt>
+<landbldgequipbasisnetgrp>
+<boyamt>162755</boyamt>
+<eoyamt>121809</eoyamt>
+</landbldgequipbasisnetgrp>
+<investmentspubtradedsecgrp>
+<boyamt>242369</boyamt>
+<eoyamt>336338</eoyamt>
+</investmentspubtradedsecgrp>
+<totalassetsgrp>
+<boyamt>1401371</boyamt>
+<eoyamt>1540703</eoyamt>
+</totalassetsgrp>
+<accountspayableaccrexpnssgrp>
+<boyamt>128224</boyamt>
+<eoyamt>185576</eoyamt>
+</accountspayableaccrexpnssgrp>
+<deferredrevenuegrp>
+<boyamt>691350</boyamt>
+<eoyamt>813108</eoyamt>
+</deferredrevenuegrp>
+<otherliabilitiesgrp>
+<boyamt>175905</boyamt>
+<eoyamt>128667</eoyamt>
+</otherliabilitiesgrp>
+<totalliabilitiesgrp>
+<boyamt>995479</boyamt>
+<eoyamt>1127351</eoyamt>
+</totalliabilitiesgrp>
+<organizationfollowssfas117ind>X</organizationfollowssfas117ind>
+<unrestrictednetassetsgrp>
+<boyamt>140991</boyamt>
+<eoyamt>134244</eoyamt>
+</unrestrictednetassetsgrp>
+<temporarilyrstrnetassetsgrp>
+<boyamt>264901</boyamt>
+<eoyamt>279108</eoyamt>
+</temporarilyrstrnetassetsgrp>
+<totalnetassetsfundbalancegrp>
+<boyamt>405892</boyamt>
+<eoyamt>413352</eoyamt>
+</totalnetassetsfundbalancegrp>
+<totliabnetassetsfundbalancegrp>
+<boyamt>1401371</boyamt>
+<eoyamt>1540703</eoyamt>
+</totliabnetassetsfundbalancegrp>
+<infoinscheduleopartxiind>X</infoinscheduleopartxiind>
+<reconcilationrevenueexpnssamt>175387</reconcilationrevenueexpnssamt>
+<netunrlzdgainslossesinvstamt>39</netunrlzdgainslossesinvstamt>
+<otherchangesinnetassetsamt>-167966</otherchangesinnetassetsamt>
+<methodofaccountingaccrualind>X</methodofaccountingaccrualind>
+<accountantcompileorreviewind>0</accountantcompileorreviewind>
+<fsauditedind>1</fsauditedind>
+<fsauditedbasisgrp>
+<separatebasisfinclstmtind>X</separatebasisfinclstmtind>
+</fsauditedbasisgrp>
+<auditcommitteeind>1</auditcommitteeind>
+<federalgrantauditrequiredind>0</federalgrantauditrequiredind>
+</irs990>
+<irs990schedulea documentid="RetDoc1039100001">
+<publicorganization170ind>X</publicorganization170ind>
+<giftsgrantscontrircvd170grp>
+<currenttaxyearminus4yearsamt>1198758</currenttaxyearminus4yearsamt>
+<currenttaxyearminus3yearsamt>2540800</currenttaxyearminus3yearsamt>
+<currenttaxyearminus2yearsamt>2253973</currenttaxyearminus2yearsamt>
+<currenttaxyearminus1yearamt>402073</currenttaxyearminus1yearamt>
+<currenttaxyearamt>2230128</currenttaxyearamt>
+<totalamt>8625732</totalamt>
+</giftsgrantscontrircvd170grp>
+<totalcalendaryear170grp>
+<currenttaxyearminus4yearsamt>1198758</currenttaxyearminus4yearsamt>
+<currenttaxyearminus3yearsamt>2540800</currenttaxyearminus3yearsamt>
+<currenttaxyearminus2yearsamt>2253973</currenttaxyearminus2yearsamt>
+<currenttaxyearminus1yearamt>402073</currenttaxyearminus1yearamt>
+<currenttaxyearamt>2230128</currenttaxyearamt>
+<totalamt>8625732</totalamt>
+</totalcalendaryear170grp>
+<publicsupporttotal170amt>8625732</publicsupporttotal170amt>
+<grossinvestmentincome170grp>
+<currenttaxyearminus4yearsamt>283708</currenttaxyearminus4yearsamt>
+<currenttaxyearminus3yearsamt>274031</currenttaxyearminus3yearsamt>
+<currenttaxyearminus2yearsamt>277840</currenttaxyearminus2yearsamt>
+<currenttaxyearminus1yearamt>82280</currenttaxyearminus1yearamt>
+<currenttaxyearamt>691402</currenttaxyearamt>
+<totalamt>1609261</totalamt>
+</grossinvestmentincome170grp>
+<otherincome170grp>
+<currenttaxyearminus4yearsamt>8700</currenttaxyearminus4yearsamt>
+<currenttaxyearminus2yearsamt>2000</currenttaxyearminus2yearsamt>
+<currenttaxyearminus1yearamt>4750</currenttaxyearminus1yearamt>
+<totalamt>15450</totalamt>
+</otherincome170grp>
+<totalsupportamt>10250443</totalsupportamt>
+<grossreceiptsrltdactivitiesamt>103533</grossreceiptsrltdactivitiesamt>
+<publicsupportcy170pct>0.84150</publicsupportcy170pct>
+<publicsupportpy170pct>0.87770</publicsupportpy170pct>
+<thirtythrpctsuprttestscy170ind>X</thirtythrpctsuprttestscy170ind>
+</irs990schedulea>
+<irs990scheduleb documentid="RetDoc1234500001">
+<contributorinformationgrp>
+<contributornum>RESTRICTED</contributornum>
+<contributorbusinessname>
+<businessnameline1>RESTRICTED</businessnameline1>
+</contributorbusinessname>
+<contributorusaddress>
+<addressline1>RESTRICTED</addressline1>
+<addressline2>RESTRICTED</addressline2>
+<city>RESTRICTED</city>
+<state>RESTRICTED</state>
+<zipcode>RESTRICTED</zipcode>
+</contributorusaddress>
+<totalcontributionsamt>RESTRICTED</totalcontributionsamt>
+</contributorinformationgrp>
+</irs990scheduleb>
+<irs990scheduled documentid="RetDoc1040000001">
+<leaseholdimprovementsgrp>
+<othercostorotherbasisamt>196105</othercostorotherbasisamt>
+<depreciationamt>129121</depreciationamt>
+<bookvalueamt>66984</bookvalueamt>
+</leaseholdimprovementsgrp>
+<equipmentgrp>
+<othercostorotherbasisamt>218936</othercostorotherbasisamt>
+<depreciationamt>164111</depreciationamt>
+<bookvalueamt>54825</bookvalueamt>
+</equipmentgrp>
+<totalbookvaluelandbuildingsamt>121809</totalbookvaluelandbuildingsamt>
+<otherliabilitiesorggrp>
+<desc>DEFERRED RENT</desc>
+<amt>112495</amt>
+</otherliabilitiesorggrp>
+<otherliabilitiesorggrp>
+<desc>CAPITAL LEASE OBLIGATIONS</desc>
+<amt>16172</amt>
+</otherliabilitiesorggrp>
+<totalliabilityamt>128667</totalliabilityamt>
+<footnotetextind>X</footnotetextind>
+<totalrevetcauditedfinclstmtamt>2990759</totalrevetcauditedfinclstmtamt>
+<netunrealizedgainsinvstamt>39</netunrealizedgainsinvstamt>
+<donatedservicesandusefcltsamt>69228</donatedservicesandusefcltsamt>
+<revenuenotreportedamt>69267</revenuenotreportedamt>
+<revenuesubtotalamt>2921492</revenuesubtotalamt>
+<otherrevenuesnotincludedamt>-693293</otherrevenuesnotincludedamt>
+<revenuenotreportedfinclstmtamt>-693293</revenuenotreportedfinclstmtamt>
+<totalrevenueperform990amt>2228199</totalrevenueperform990amt>
+<totexpnsetcauditedfinclstmtamt>2815333</totexpnsetcauditedfinclstmtamt>
+<donatedservicesusefcltsamt>69228</donatedservicesusefcltsamt>
+<otherexpensesincludedamt>693293</otherexpensesincludedamt>
+<expensesnotreportedamt>762521</expensesnotreportedamt>
+<expensessubtotalamt>2052812</expensessubtotalamt>
+<expensesnotrptfinclstmtamt>0</expensesnotrptfinclstmtamt>
+<totalexpensesperform990amt>2052812</totalexpensesperform990amt>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART X, LINE 2:</formandlinereferencedesc>
+<explanationtxt>THE COUNCIL IS EXEMPT FROM INCOME TAXES UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE (IRC) AND IS CLASSIFIED AS OTHER THAN A PRIVATE FOUNDATION WITHIN THE MEANING OF SECTION 509(A)(1) OF THE IRC. ACCORDINGLY, NO PROVISION FOR INCOME TAXES HAS BEEN MADE IN THE ACCOMPANYING FINANCIAL STATEMENTS. MANAGEMENT BELIEVES THAT IT HAS NO MATERIAL UNCERTAIN TAX POSITIONS THAT WOULD REQUIRE RECOGNITION UNDER THE ACCOUNTING CODIFICATION GUIDANCE.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART XI, LINE 4B - OTHER ADJUSTMENTS:</formandlinereferencedesc>
+<explanationtxt>RENTAL EXPENSES -693,293.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART XII, LINE 2D - OTHER ADJUSTMENTS:</formandlinereferencedesc>
+<explanationtxt>RENTAL EXPENSES 693,293.</explanationtxt>
+</supplementalinformationdetail>
+</irs990scheduled>
+<irs990schedulej documentid="RetDoc1042400001">
+<clubduesorfeesind>X</clubduesorfeesind>
+<writtenpolicyreftandeexpnssind>1</writtenpolicyreftandeexpnssind>
+<substantiationrequiredind>1</substantiationrequiredind>
+<compensationcommitteeind>X</compensationcommitteeind>
+<form990ofotherorganizationsind>X</form990ofotherorganizationsind>
+<compensationsurveyind>X</compensationsurveyind>
+<boardorcommitteeapprovalind>X</boardorcommitteeapprovalind>
+<severancepaymentind>0</severancepaymentind>
+<supplementalnonqualrtrplanind>0</supplementalnonqualrtrplanind>
+<equitybasedcomparrngmind>0</equitybasedcomparrngmind>
+<compbasedonrevenueofflngorgind>0</compbasedonrevenueofflngorgind>
+<compbsdonrevrelatedorgsind>0</compbsdonrevrelatedorgsind>
+<compbsdnetearnsflngorgind>0</compbsdnetearnsflngorgind>
+<compbsdnetearnsrltdorgsind>0</compbsdnetearnsrltdorgsind>
+<anynonfixedpaymentsind>0</anynonfixedpaymentsind>
+<initialcontractexceptionind>0</initialcontractexceptionind>
+<rltdorgofficertrstkeyemplgrp>
+<personnm>ANTHONY A WILLIAMS</personnm>
+<titletxt>CHIEF EXECUTIVE OFFICER AND EXECUTIV</titletxt>
+<basecompensationfilingorgamt>260000</basecompensationfilingorgamt>
+<compensationbasedonrltdorgsamt>0</compensationbasedonrltdorgsamt>
+<bonusfilingorganizationamount>0</bonusfilingorganizationamount>
+<bonusrelatedorganizationsamt>0</bonusrelatedorganizationsamt>
+<othercompensationfilingorgamt>0</othercompensationfilingorgamt>
+<othercompensationrltdorgsamt>0</othercompensationrltdorgsamt>
+<deferredcompensationflngorgamt>29510</deferredcompensationflngorgamt>
+<deferredcomprltdorgsamt>0</deferredcomprltdorgsamt>
+<nontaxablebenefitsfilingorgamt>34973</nontaxablebenefitsfilingorgamt>
+<nontaxablebenefitsrltdorgsamt>0</nontaxablebenefitsrltdorgsamt>
+<totalcompensationfilingorgamt>324483</totalcompensationfilingorgamt>
+<totalcompensationrltdorgsamt>0</totalcompensationrltdorgsamt>
+<compreportprior990filingorgamt>0</compreportprior990filingorgamt>
+<compreportprior990rltdorgsamt>0</compreportprior990rltdorgsamt>
+</rltdorgofficertrstkeyemplgrp>
+<rltdorgofficertrstkeyemplgrp>
+<personnm>KEVIN CLINTON</personnm>
+<titletxt>CHIEF OPERATING OFFICER</titletxt>
+<basecompensationfilingorgamt>173627</basecompensationfilingorgamt>
+<compensationbasedonrltdorgsamt>0</compensationbasedonrltdorgsamt>
+<bonusfilingorganizationamount>0</bonusfilingorganizationamount>
+<bonusrelatedorganizationsamt>0</bonusrelatedorganizationsamt>
+<othercompensationfilingorgamt>0</othercompensationfilingorgamt>
+<othercompensationrltdorgsamt>0</othercompensationrltdorgsamt>
+<deferredcompensationflngorgamt>14000</deferredcompensationflngorgamt>
+<deferredcomprltdorgsamt>0</deferredcomprltdorgsamt>
+<nontaxablebenefitsfilingorgamt>28887</nontaxablebenefitsfilingorgamt>
+<nontaxablebenefitsrltdorgsamt>0</nontaxablebenefitsrltdorgsamt>
+<totalcompensationfilingorgamt>216514</totalcompensationfilingorgamt>
+<totalcompensationrltdorgsamt>0</totalcompensationrltdorgsamt>
+<compreportprior990filingorgamt>0</compreportprior990filingorgamt>
+<compreportprior990rltdorgsamt>0</compreportprior990rltdorgsamt>
+</rltdorgofficertrstkeyemplgrp>
+<rltdorgofficertrstkeyemplgrp>
+<personnm>EMEKA MONEME</personnm>
+<titletxt>DEPUTY EXECUTIVE DIRECTOR</titletxt>
+<basecompensationfilingorgamt>175000</basecompensationfilingorgamt>
+<compensationbasedonrltdorgsamt>0</compensationbasedonrltdorgsamt>
+<bonusfilingorganizationamount>0</bonusfilingorganizationamount>
+<bonusrelatedorganizationsamt>0</bonusrelatedorganizationsamt>
+<othercompensationfilingorgamt>0</othercompensationfilingorgamt>
+<othercompensationrltdorgsamt>0</othercompensationrltdorgsamt>
+<deferredcompensationflngorgamt>14000</deferredcompensationflngorgamt>
+<deferredcomprltdorgsamt>0</deferredcomprltdorgsamt>
+<nontaxablebenefitsfilingorgamt>30680</nontaxablebenefitsfilingorgamt>
+<nontaxablebenefitsrltdorgsamt>0</nontaxablebenefitsrltdorgsamt>
+<totalcompensationfilingorgamt>219680</totalcompensationfilingorgamt>
+<totalcompensationrltdorgsamt>0</totalcompensationrltdorgsamt>
+<compreportprior990filingorgamt>0</compreportprior990filingorgamt>
+<compreportprior990rltdorgsamt>0</compreportprior990rltdorgsamt>
+</rltdorgofficertrstkeyemplgrp>
+<rltdorgofficertrstkeyemplgrp>
+<personnm>DOUGLAS SIGLIN</personnm>
+<titletxt>EXECUTIVE DIRECTOR, AWT</titletxt>
+<basecompensationfilingorgamt>140000</basecompensationfilingorgamt>
+<compensationbasedonrltdorgsamt>0</compensationbasedonrltdorgsamt>
+<bonusfilingorganizationamount>0</bonusfilingorganizationamount>
+<bonusrelatedorganizationsamt>0</bonusrelatedorganizationsamt>
+<othercompensationfilingorgamt>0</othercompensationfilingorgamt>
+<othercompensationrltdorgsamt>0</othercompensationrltdorgsamt>
+<deferredcompensationflngorgamt>11200</deferredcompensationflngorgamt>
+<deferredcomprltdorgsamt>0</deferredcomprltdorgsamt>
+<nontaxablebenefitsfilingorgamt>4200</nontaxablebenefitsfilingorgamt>
+<nontaxablebenefitsrltdorgsamt>0</nontaxablebenefitsrltdorgsamt>
+<totalcompensationfilingorgamt>155400</totalcompensationfilingorgamt>
+<totalcompensationrltdorgsamt>0</totalcompensationrltdorgsamt>
+<compreportprior990filingorgamt>0</compreportprior990filingorgamt>
+<compreportprior990rltdorgsamt>0</compreportprior990rltdorgsamt>
+</rltdorgofficertrstkeyemplgrp>
+<rltdorgofficertrstkeyemplgrp>
+<personnm>STEVE RUSSO</personnm>
+<titletxt>DIRECTOR OF FINANCE AND ADMIN.</titletxt>
+<basecompensationfilingorgamt>139775</basecompensationfilingorgamt>
+<compensationbasedonrltdorgsamt>0</compensationbasedonrltdorgsamt>
+<bonusfilingorganizationamount>0</bonusfilingorganizationamount>
+<bonusrelatedorganizationsamt>0</bonusrelatedorganizationsamt>
+<othercompensationfilingorgamt>0</othercompensationfilingorgamt>
+<othercompensationrltdorgsamt>0</othercompensationrltdorgsamt>
+<deferredcompensationflngorgamt>4200</deferredcompensationflngorgamt>
+<deferredcomprltdorgsamt>0</deferredcomprltdorgsamt>
+<nontaxablebenefitsfilingorgamt>27486</nontaxablebenefitsfilingorgamt>
+<nontaxablebenefitsrltdorgsamt>0</nontaxablebenefitsrltdorgsamt>
+<totalcompensationfilingorgamt>171461</totalcompensationfilingorgamt>
+<totalcompensationrltdorgsamt>0</totalcompensationrltdorgsamt>
+<compreportprior990filingorgamt>0</compreportprior990filingorgamt>
+<compreportprior990rltdorgsamt>0</compreportprior990rltdorgsamt>
+</rltdorgofficertrstkeyemplgrp>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART I, LINE 1A</formandlinereferencedesc>
+<explanationtxt>SOCIAL AND HEALTH CLUB COST REIMBURSEMENTS ARE PERMITTED FOR THE CEO, PURSUANT TO THE EMPLOYMENT CONTRACT APPROVED BY THE EXECUTIVE COMMITTEE. ANTHONY A. WILLIAMS, HEALTH OR SOCIAL CLUB DUES OR INIATION FEES $2,784, NOT INCLUDED IN TAXABLE COMPENSATION.</explanationtxt>
+</supplementalinformationdetail>
+</irs990schedulej>
+<irs990schedulem documentid="RetDoc1042900001">
+<securitiespubliclytradedgrp>
+<noncashcheckboxind>X</noncashcheckboxind>
+<contributioncnt>4150</contributioncnt>
+<noncashcontributionsrptf990amt>90281</noncashcontributionsrptf990amt>
+<methodofdeterminingrevenuestxt>FMV</methodofdeterminingrevenuestxt>
+</securitiespubliclytradedgrp>
+<anypropertythatmustbeheldind>0</anypropertythatmustbeheldind>
+<reviewprocessunusualncgiftsind>0</reviewprocessunusualncgiftsind>
+<thirdpartiesusedind>0</thirdpartiesusedind>
+</irs990schedulem>
+<irs990schedulen documentid="RetDoc1043200001">
+<dispositionofassetsdetail>
+<assetsdistriorexpnsspaiddesc>CASH BALANCE OF TEMPORARILY RESTRICTED CONTRIBUTIONS</assetsdistriorexpnsspaiddesc>
+<distributiondt>2016-01-01</distributiondt>
+<fairmarketvalueofassetamt>167968</fairmarketvalueofassetamt>
+<methodoffmvdeterminationtxt>CASH VALUE</methodoffmvdeterminationtxt>
+<ein>474353114</ein>
+<businessname>
+<businessnameline1txt>ANACOSTIA WATERFRONT TRUST</businessnameline1txt>
+</businessname>
+<usaddress>
+<addressline1txt>1156 15TH ST NW STE 600</addressline1txt>
+<citynm>WASHINGTON</citynm>
+<stateabbreviationcd>DC</stateabbreviationcd>
+<zipcd>20005</zipcd>
+</usaddress>
+<ircsectiontxt>501C3</ircsectiontxt>
+</dispositionofassetsdetail>
+<directorofsuccessor2ind>1</directorofsuccessor2ind>
+<employeeofsuccessor2ind>0</employeeofsuccessor2ind>
+<ownerofsuccessor2ind>0</ownerofsuccessor2ind>
+<receivecompensation2ind>0</receivecompensation2ind>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART II, LINE 2E:</formandlinereferencedesc>
+<explanationtxt>PERSON(S) INVOLVED: ANTHONY WILLIAMS</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>PART II, LINE 2E:</formandlinereferencedesc>
+<explanationtxt>EXPLANATION OF INVOLVEMENT: ANTHONY WILLIAMS, EXECUTIVE DIRECTOR AND CEO OF THE FEDERAL CITY COUNCIL, WAS NAMED BOARD CHAIR OF THE ANACOSTIA WATERFRONT TRUST, AN ORGANIZATION ESTABLISHED BY THE FEDERAL CITY COUNCIL TO FOCUS ON THE RESTORATION OF THE ANACOSTIA RIVER.</explanationtxt>
+</supplementalinformationdetail>
+</irs990schedulen>
+<irs990scheduleo documentid="RetDoc1044400001">
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART III, LINE 2</formandlinereferencedesc>
+<explanationtxt>THE FEDERAL CITY COUNCIL ESTABLISHED THE DC POLICY CENTER TO PROVIDE UNBIASED ECONOMIC AND PUBLIC POLICY ANALYSES TO THE PUBLIC AND DECISION MAKERS.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART III, LINE 3</formandlinereferencedesc>
+<explanationtxt>THE FEDERAL CITY COUNCIL SPUN-OFF ITS ANACOSTIA RIVER INITIATIVE INTO A SEPARATE ORGANIZATION CALLED THE ANACOSTIA WATERFRONT TRUST.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION A, LINE 1</formandlinereferencedesc>
+<explanationtxt>LINE 1A: THE FEDERAL CITY COUNCIL'S EXECUTIVE COMMITTEE IS COMPRISED OF ITS OFFICERS, COMMITTEE CHAIRS AND 28 MEMBERS-AT-LARGE WHO ARE ELECTED BY THE MEMBERS. THE EXECUTIVE COMMITTEE SERVES AS THE COUNCIL'S BOARD OF DIRECTORS AND IS RESPONSIBLE FOR MANAGING THE ORGANIZATION'S PROPERTY, BUSINESS AND AFFAIRS.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION A, LINE 2</formandlinereferencedesc>
+<explanationtxt>CONRAD CAFRITZ AND CALVIN CAFRITZ ARE BROTHERS.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION A, LINE 6</formandlinereferencedesc>
+<explanationtxt>MEMBERS ARE CLASSIFIED BY SEVERAL FACTORS INCLUDING ANNUAL DUES, THE SIZE AND NATURE OF THE ORGANIZATIONS THEY REPRESENT AND THEIR ROLE ON THE COUNCIL, SUCH AS SERVING AS AN OFFICER OR COMMITTEE MEMBER.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION A, LINE 7A</formandlinereferencedesc>
+<explanationtxt>VOTING MEMBERS IN GOOD STANDING ELECT MEMBERS TO THE OFFICERS GROUP AND EXECUTIVE COMMITTEE.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION A, LINE 7B</formandlinereferencedesc>
+<explanationtxt>DECISIONS RATIFIED ANNUALLY BY THE FULL MEMEBRSHIP INCLUDE ADOPTION OF AN ANNUAL BUDGET, CHANGES TO BYLAWS AND ELECTION OF OFFICERS.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION B, LINE 11B</formandlinereferencedesc>
+<explanationtxt>THE FORM 990 IS INITIALLY REVIEWED BY THE DIRECTOR OF FINANCE AND CHIEF OPERAITNG OFFICER. IT IS THEN PROVIDED TO THE TREASURER, CHAIRMAN AND CEO FOR FINAL REVIEW AND APPROVAL. A COPY IS PROVIDED TO THE ENTIRE OFFICERS GROUP ONCE IT HAS BEEN SUBMITTED AND IS MADE AVAILALBE TO ALL TRUSTEES UPON REQUEST.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION B, LINE 12C</formandlinereferencedesc>
+<explanationtxt>THE ORGANIZATION'S STAFF AND BOARD REVIEW ALL TRANSACTIONS BEFORE THEY ARE EXECUTED TO IDENTIFY POTENTIAL CONFLITS OF INTEREST. IF A REAL OR PERCEVED CONFLICT OF INTEREST IS IDENTIFIED, THE TRANSACTION IS MODIFIED TO REMOVE THE CONFLICT OR THE TRANSACTION IS NOT EXECUTED. ADDITIONALY, AS PART OF THE ANNUAL INDEPENDENT AUDIT PROCESS, THE ORGANIZATION REVIEWS ALL TRANSACTIONS AT THE END OF EACH FISCAL YEAR TO IDENTIFY ANY CONFLICTS OF INTEREST OT RELATED PARTY TRANSACTIONS THAT MAY NOT HAVE BEEN PREVIOUSLY NOTED.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION B, LINE 15</formandlinereferencedesc>
+<explanationtxt>THE OFFICER'S GROUP DETERMINES THE COMPENSATION FOR THE CEO AND OTHER SENIOR EXECUTIVES ANUALLY. AMONG OTHER RESOURCES, THE OFFICER'S GROUP USES INDEPENDENTLY COLLECTED SALARY SURVEY DATA TO ENSURE STAFF SALARIES ARE COMMENSURATE WITH THOSE OF SIMILAR ORGANIZATIONS IN THE SAME MARKET. THE PROCESS LAST TOOK PLACE IN 2016. THE SAME PROCESS IS USED FOR DETERMING COMPENSATION FOR OTHER OFFICERS AND KEY EMPLOYEES. THE PROCESS LAST TOOK PLACE IN 2016.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART VI, SECTION C, LINE 19</formandlinereferencedesc>
+<explanationtxt>THE ORGANIZATION PROVIDES GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY AND FINANCIAL STATEMENTS UPON REQUEST.</explanationtxt>
+</supplementalinformationdetail>
+<supplementalinformationdetail>
+<formandlinereferencedesc>FORM 990, PART XI, LINE 9:</formandlinereferencedesc>
+<explanationtxt>NET ASSETS TRANSFERRED TO THE BOARD OF THE ANACOSTIA WATERFRONT TRUST, A -167,966. 501(C)(3) CHARITY</explanationtxt>
+</supplementalinformationdetail>
+</irs990scheduleo>
+</returndata>
+</return></body></html>
