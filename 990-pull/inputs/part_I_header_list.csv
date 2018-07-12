@@ -8,8 +8,10 @@ votingmembersindependentcnt
 totalemployeecnt
 totalvolunteerscnt
 totalgrossubiamt
+netgrossubiamt
 pycontributionsgrantsamt
 cycontributionsgrantsamt
+pyprogramservicerevenueamt
 cyprogramservicerevenueamt
 pyinvestmentincomeamt
 cyinvestmentincomeamt
@@ -19,10 +21,13 @@ pytotalrevenueamt
 cytotalrevenueamt
 pygrantsandsimilarpaidamt
 cygrantsandsimilarpaidamt
+pybenefitspaidtomembersamt
 cybenefitspaidtomembersamt
 pysalariescompempbnftpaidamt
 cysalariescompempbnftpaidamt
+pytotalproffndrsngexpnsamt
 cytotalproffndrsngexpnsamt
+pytotalfundraisingexpenseamt
 cytotalfundraisingexpenseamt
 pyotherexpensesamt
 cyotherexpensesamt

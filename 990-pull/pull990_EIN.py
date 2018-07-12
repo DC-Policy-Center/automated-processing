@@ -154,14 +154,15 @@ failed_write = []
 #---------------------------------------------------------------------------------
 
 
-hd = pd.read_csv('part_I_header_list.csv')
-org_list_with_ein = pd.read_csv('ein-list-2.csv')
+hd = pd.read_csv('.\inputs\part_I_header_list.csv')
+org_list_with_ein = pd.read_csv('.\inputs\ein-list-2.csv')
 
 org_list_with_ein_range = range(len(org_list_with_ein['org_name']))
 
-years = [2018,2017,2016,2015,2014,2013,2012,2011] # years to scrape over
-#years = [2018,2017,2016,2015]
-#years = [2015]
+
+ # years to scrape over, this must be set in list form even if it is just one year.
+years = [2018,2017,2016,2015,2014,2013,2012,2011]
+
 
 
 
@@ -169,12 +170,12 @@ for year in years:
     print('Running through %i\n'%year)
 # --------------------- Initializing variables used on a per-year basis
 
-    found_single = []
-    found_multi = []
-    found_none = []
+    found_single = []   # list appended to when found the organization or EIN
+    found_multi = []    # list appended to when more than one organization was found, not written out
+    found_none = []     # list appened to when the organization is not found
 
-    o = 0
-    counting_index = 0
+    o = 0               # index used for organiztion in org_list
+    counting_index = 0  # index used for counting iterations over loop count in years
 # --------------------------------------------------------------------
 
     pull_data = requests.get('https://s3.amazonaws.com/irs-form-990/index_%i.json'%year) # pulling the index data for the specific year
@@ -199,13 +200,13 @@ for year in years:
         org_to_search = org_list_with_ein['org_name'][o]
         ein_to_search = org_list_with_ein['ein'][o]
         is_found = org_list_with_ein['found'][o]
-        
+
         if is_found == 0:
             org = get_org(current_data,ein_to_search,'ein') #searches for organization in the index list.  Uses fuzzy matching, may return more than one
-            
-            if len(org) == 0: 
+
+            if len(org) == 0:
                 found_none.append(org_to_search)
-                            
+
             elif len(org) == 1:
                 found_single.append(org_to_search)
                 df,df_final = org_to_final_df(org,df_final)
@@ -213,17 +214,17 @@ for year in years:
                 write_select_key_dict_pairs(hd,df,first_temp_write)
                 first_temp_write = False
                 # org_list_with_ein['found'][o] = str(year)
-    
+
             elif len(org) > 1:
-                
+
                 found_multi.append(org_to_search)
                 org = [org[0]] #just picking one
-                
+
                 df,df_final = org_to_final_df(org,df_final)
-    
+
                 write_select_key_dict_pairs(hd,df,first_temp_write)
                 first_temp_write = False
-                
+
                 # org_list_with_ein['found'][o] = str(year)
 
 
