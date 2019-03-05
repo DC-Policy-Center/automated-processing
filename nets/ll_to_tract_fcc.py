@@ -42,6 +42,13 @@ def get_tract_from_fips(FIPS):
     tract = FIPS[5:10]
     return(tract)
 
+def write_part(df,step,path):
+    file_name = "partial_nets_block_{}.csv".format(str(step))
+    partial_to_write = os.path.join(path, file_name)
+    df.to_csv(partial_to_write, sep=',')
+
+
+
 
 
 
@@ -62,47 +69,51 @@ write_log("finished loading",verbose)
 
 
 
-i = 0
+batch_index = 0
+full_index = 0
 
 df_len = len(df)
-run_len = df_len
+run_len = 10000#df_len/100
 
 batch_len = 1000
 
 master_fips_list = []
 
+for full_index in range(df_len)
 
-for i in range(run_len):
-    fips_list = []
+    for batch_index in range(run_len):
+        i = batch_index
+        fips_list = []
 
-    line = "{} batch starting -- Index: {} out of {}\n".format(str(i+batch_len),str(i),str(run_len))
-    write_log(line,verbose)
+        line = "{} batch starting -- Index: {} out of {}\n".format(str(i+batch_len),str(i),str(run_len))
+        write_log(line,verbose)
 
-# ---  building URL batch ---
-    for j in range(batch_len):
-        url_list = []
-        lat = df['Latitude'][i]
-        lon = df['Longitude'][i]
-        url = url_builder(lat,lon)
-        url_list.append(url)
-# ---------------------------
-
-
-# ---  sending batch list to get FIPS
-    line = "getting fips for {} batch -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
-    fips_list = get_batch_FIPS(url_list)
-    write_log(line,verbose)
-
-# -- appending fips to list
-    line = "Appending -- {} batch completed -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
-    for item in fips_list: master_fips_list.append(item)
-    write_log(line,verbose)
+    # ---  building URL batch ---
+        for j in range(batch_len):
+            url_list = []
+            lat = df['Latitude'][i]
+            lon = df['Longitude'][i]
+            url = url_builder(lat,lon)
+            url_list.append(url)
+    # ---------------------------
 
 
-    line = "{} batch completed -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
-    write_log(line,verbose)
+    # ---  sending batch list to get FIPS
+        line = "getting fips for {} batch -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
+        fips_list = get_batch_FIPS(url_list)
+        write_log(line,verbose)
 
-    i+=batch_len
+    # -- appending fips to list
+        line = "Appending -- {} batch completed -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
+        for item in fips_list: master_fips_list.append(item)
+        write_log(line,verbose)
+
+
+        line = "{} batch completed -- Index: {} out of {}\n".format(str(j),str(i),str(run_len))
+        write_log(line,verbose)
+
+        batch_index+=batch_len
+
 
 
 ii = 0
