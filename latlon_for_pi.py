@@ -92,7 +92,7 @@ bin_output_index = 0
 bin_output_length = 10000
 
 
-for full_index in range(10000) # This loop runs through the entire dataframe (~2mil)
+for full_index in range(10000): # This loop runs through the entire dataframe (~2mil)
 
     for batch_index in range(run_len): # this loop batches into the single request list (1000)
         i = batch_index
