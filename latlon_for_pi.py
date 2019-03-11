@@ -21,8 +21,10 @@ mes = {'file_length':0,
 
 
 
-data_folder_write = os.path.join("~", "Desktop","nets-explore","tract")
-data_folder_read = os.path.join("~", "Desktop","nets-explore")
+#data_folder_write = os.path.join("~", "Desktop","nets-explore","tract")
+#data_folder_read = os.path.join("~", "Desktop","nets-explore")
+data_folder_write = os.path.join("C:\\", "Users","mwatson","Documents","SharePoint","The DC Policy Center - Documents","Data","Nets Data","NETS Subsets","tract")
+data_folder_read = os.path.join("C:\\", "Users","mwatson","Documents","SharePoint","The DC Policy Center - Documents","Data","Nets Data","NETS Subsets")
 
 file_to_open = os.path.join(data_folder_read, "NETS2015_general.csv")
 file_to_write = os.path.join(data_folder_write, "NETS2015_general_with_tract.csv")
@@ -66,12 +68,12 @@ def write_part(df,step,path):
 
 
 #------------------- Load in data
-write_log("loading in data",verbose)
 
 
+print('opening')
 df = pd.read_csv(file_to_open,encoding="ISO-8859-1")
 df['FIPS'] = ''
-write_log("finished loading",verbose)
+print('opened')
 
 
 # Batch is used as a small number of URLs to be built and called together
@@ -79,9 +81,9 @@ batch_len = 1000
 
 df_len = len(df)
 mes['file_length'] = df_len
-write_log(mes,verbose)
 
-run_len = 10000#df_len/100
+
+run_len = 1000#df_len/100
 
 
 
@@ -91,9 +93,9 @@ binned_fips_list = [] # A bin is the 10,000 that will be used as the partial out
 bin_output_index = 0
 bin_output_length = 10000
 
-
-for full_index in range(10000): # This loop runs through the entire dataframe (~2mil)
-
+print('running')
+for full_index in range(1000): # This loop runs through the entire dataframe (~2mil)
+    print('{} to {}'.format(full_index,run_len+full_index))
     for batch_index in range(run_len): # this loop batches into the single request list (1000)
         i = batch_index
         fips_list = []
@@ -117,36 +119,24 @@ for full_index in range(10000): # This loop runs through the entire dataframe (~
         for item in fips_list: master_fips_list.append(item)
         #for item in fips:list: binned_fips_list.append(item)
 
-
-        partial_output_index +=1
-
-        '''
-        if partial_output_index == partial_output_lenght:
-            # Write partial file
-
-            write_part('data_folder_write')
-
-            partial_output_index = 0
-            binned_fips_list = []
-        '''
-
-        batch_index+=batch_len
+        batch_index += batch_len
+    full_index += batch_len
 
 
-
+print('appending')
 ii = 0
 for ii in range(len(master_fips_list)):
     df['FIPS'][ii] = master_fips_list[ii]
 
 
-write_log("writing to file",verbose)
+print('writting')
 df.to_csv(file_to_write, sep=',')
-write_log("finsihed writing to file",verbose)
+
 
 
 
 
 ####################################### ENDING TIME #########
 toc = time.clock()
-write_log("{} seconds".format(str(toc-tic)),verbose)        #
+
 #############################################################
