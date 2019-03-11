@@ -120,7 +120,7 @@ for full_index in range(10000): # This loop runs through the entire dataframe (~
 
         partial_output_index +=1
 
-        ''''
+        '''
         if partial_output_index == partial_output_lenght:
             # Write partial file
 
@@ -128,7 +128,8 @@ for full_index in range(10000): # This loop runs through the entire dataframe (~
 
             partial_output_index = 0
             binned_fips_list = []
-        ''''
+        '''
+
         batch_index+=batch_len
 
 
